@@ -15,4 +15,4 @@ Projektgruppen består af:
 - Mohammad Hasham `mhas@itu.dk`
 
 Styregruppen hos Getinge IT Solutions ApS ledes af:
-- Bjarke Andersen
+- Kenn Thisted
